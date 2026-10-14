@@ -22,5 +22,5 @@ print("Delivery Fee: Rupees ", delivery_fee)
 # Calculate the final bill
 final_bill = order_value + delivery_fee
 
-# Display the final bill
+# Displaying the final bill
 print(f"Final Bill: Rupees {final_bill:.2f}")
